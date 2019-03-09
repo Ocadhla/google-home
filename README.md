@@ -1,1 +1,1 @@
-[google page](https://ocadhla.github.io/google-home/)
+From The Odin Project's Easy Version
